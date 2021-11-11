@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GRPC, Next.js**
 
-- 📫 How to reach me **bansal.sanuj@gmail.com**
+- 📫 How to reach me **sanujbansal25@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
