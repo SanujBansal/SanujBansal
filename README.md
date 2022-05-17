@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanujbansal&label=Profile%20views&color=0e75b6&style=flat" alt="sanujbansal" /> </p>
 
-- 🌱 I’m currently learning **GRPC, Next.js**
+- 🌱 I’m currently working on a mission named **FaangPath**
 
 - 📫 How to reach me **sanujbansal25@gmail.com**
 
