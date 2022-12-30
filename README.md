@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanujbansal&label=Profile%20views&color=0e75b6&style=flat" alt="sanujbansal" /> </p>
 
-- 🌱 I’m currently working on a mission named **FaangPath**
+- 🌱 I’m currently working to build tools for job seekers **@Careerflow**
 
 - 📫 How to reach me **sanujbansal25@gmail.com**
 
