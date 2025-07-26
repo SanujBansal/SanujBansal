@@ -8,6 +8,9 @@
 - 📫 How to reach me **sanujbansal25@gmail.com**
 
 ### Blogs posts
+https://medium.com/@sanujbansal25/javascript-promises-explained-for-your-next-interview-297b8bcbc380
+https://medium.com/@sanujbansal25/async-await-best-practices-tips-and-tricks-for-faster-smarter-code-eaa13eb0ba78
+https://medium.com/@sanujbansal25/react-js-avoid-common-pitfalls-and-boost-performance-with-code-examples-4852ab130c6e
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
