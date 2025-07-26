@@ -14,7 +14,7 @@ https://medium.com/@sanujbansal25/react-js-avoid-common-pitfalls-and-boost-perfo
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/sanujbansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanujbansal" height="30" width="40" /></a>
 </p>
